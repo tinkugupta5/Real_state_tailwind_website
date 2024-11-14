@@ -11,6 +11,7 @@ const Navbar = () => {
                 <a href='#Header' className='cursor-pointer hover:text-gray-400'>About</a>
                 <a href='#Header' className='cursor-pointer hover:text-gray-400'>Projects</a>
                 <a href='#Header' className='cursor-pointer hover:text-gray-400'>Testimonials</a>
+                <a href='#Header' className='cursor-pointer hover:text-gray-400'>Contacts</a>
             </ul>
         </div>
     </div>
