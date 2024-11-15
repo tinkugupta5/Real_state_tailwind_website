@@ -7,11 +7,13 @@ const Navbar = () => {
         <div>
             <img src={assets.logo} alt=''/>
             <ul>
-                <a href='#Header' className='cursor-pointer hover:text-gray-400'>Home</a>
+              <li>
+              <a href='#Header' className='cursor-pointer hover:text-gray-400'>Home</a>
                 <a href='#Header' className='cursor-pointer hover:text-gray-400'>About</a>
                 <a href='#Header' className='cursor-pointer hover:text-gray-400'>Projects</a>
                 <a href='#Header' className='cursor-pointer hover:text-gray-400'>Testimonials</a>
                 <a href='#Header' className='cursor-pointer hover:text-gray-400'>Contacts</a>
+              </li>
             </ul>
         </div>
     </div>
