@@ -1,10 +1,12 @@
 import React from 'react'
-import Navbar from './components/Navbar'
+// import Navbar from './components/Navbar'
+import Header from './components/Header'
 
 const App = () => {
   return (
     <div>
-      <Navbar/>
+      {/* <Navbar/> */}
+      <Header/>
     </div>
   )
 }
@@ -13,4 +15,4 @@ export default App
 
 
 
-//https://youtu.be/AdcUinE5iYo?t=1422
+//https://youtu.be/AdcUinE5iYo?t=1896
