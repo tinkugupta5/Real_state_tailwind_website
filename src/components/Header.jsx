@@ -11,7 +11,6 @@ const Header = () => {
                 <div>
                     <a href='#'>Projects</a>
                     <a href='#'>Contact Us</a>
-                    <a href='#'>About Us</a>
                 </div>
             </div>
         </div>
