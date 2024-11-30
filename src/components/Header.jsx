@@ -10,7 +10,7 @@ const Header = () => {
                 <h2 className='text-5xl sm:text-6xl md:text-[82px] inline-block max-w-3xl font-semibold pt-20'>Explore Homes that fit your dreams</h2>
                 <div>
                     <a href='#'>Projects</a>
-                    <a href='#'>Contact Us</a>
+                    <a href='#'>Contact us</a>
                 </div>
             </div>
         </div>
