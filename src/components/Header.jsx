@@ -17,8 +17,8 @@ const Header = () => {
                     <img class="block mx-auto h-24 rounded-full sm:mx-0 sm:shrink-0" src="/img/erin-lindford.jpg" alt="Woman's Face" />
                     <div class="text-center space-y-2 sm:text-left">
                         <div class="space-y-0.5">
-                            <p class="text-lg text-black font-semibold">
-                                Erin Lindford
+                            <p class="text-lg text-black font-semibo ld">
+                                Erin Lindfords
                             </p>
                             <p class="text-slate-500 font-medium">
                                 Product Engineers
