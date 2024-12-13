@@ -9,8 +9,6 @@ const Header = () => {
                 <h2 className='text-5xl sm:text-6xl md:text-[82px] inline-block max-w-3xl font-semibold pt-20'>Explore Homes That Fit Your Dreams</h2>                   
             </div>
         </div>
-        
-
     )
 }
 
